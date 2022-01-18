@@ -5,14 +5,14 @@ Welcome to my profile. I'm not really active GitHub user, but sometimes I'm tryi
 
 **📟Skills**
 - C#
-- Python
 - Unity Engine
 - Minecraft Servers
-- zsh
 
 
 **📚Learn**
 - Lua
+- Python
+- Shell
 - Pixel Art
 
 
