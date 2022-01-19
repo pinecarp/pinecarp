@@ -3,13 +3,13 @@
 Welcome to my profile. I'm not really active GitHub user, but sometimes I'm trying to do different stuff.
 
 
-**📟Skills**
+**Skills**
 - C#
 - Unity Engine
 - Minecraft Servers
 
 
-**📚Learn**
+**Learning**
 - Lua
 - Python
 - Shell
