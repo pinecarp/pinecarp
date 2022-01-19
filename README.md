@@ -3,16 +3,20 @@
 I'm not really active GitHub user, but sometimes I'm trying to do different stuff.
 
 
-🌱 **I’m currently learning:**
+**📚I have some experience in:**
 - C#, Unity Engine
 - Java, Minecraft
+- HTML/CSS
 - Python
+
+
+🌱 **I’m currently learning:**
 - Shell
 - Lua
 
 
 🔭 **I’m currently working on:**
-- A Unity2D Game. Check it out right here -> https://github.com/pinecarp/projector
+- A Unity Game🕹️ Check it out right here -> https://github.com/pinecarp/projector
 
 
 ### 📈GitHub Stats:
