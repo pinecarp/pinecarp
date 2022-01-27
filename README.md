@@ -22,8 +22,6 @@ I'm not really active GitHub user, but sometimes I'm trying to do different stuf
 ### 📈GitHub Stats:
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinecarp)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pinecarp&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinecarp)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinecarp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
