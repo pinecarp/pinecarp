@@ -16,7 +16,7 @@ I'm not really active GitHub user, but sometimes I'm trying to do different stuf
 
 
 🔭 **I’m currently working on:**
-- A Unity Game🕹️ Check it out right here -> https://github.com/pinecarp/projector
+- A Unity Game🕹️
 
 
 ### 📈GitHub Stats:
