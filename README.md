@@ -11,12 +11,12 @@ I'm not really active GitHub user, but sometimes I'm trying to do different stuf
 
 
 🌱 **I’m currently learning:**
-- Shell
-- Lua
+- Godot
+- GDScript
 
 
 🔭 **I’m currently working on:**
-- A Unity Game🕹️
+- A Game on the Godot Engine🕹️
 
 
 ### 📈GitHub Stats:
